@@ -1,0 +1,22 @@
+.mat {
+  outline: 2px solid red;
+}
+
+.row {
+  height: 30px;
+}
+
+.cell {
+  width: 30px;
+  height: 30px;
+  outline: 1px solid red;
+  display: inline-block;
+}
+
+.snake-cell {
+  background-color: green;
+}
+
+.food-cell {
+  background-color: greenyellow;
+}
